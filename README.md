@@ -1,10 +1,10 @@
-# <img src="screenshots/icon.png" align="left" width="42" hspace="10" vspace="10"> PrépaStar : revision app for students in preparatory classes
+# <img src="screenshots/icon.png" align="left" width="42" hspace="10" vspace="10"> PrépaStar : revision app for students in preparatory classes 📚
 
 > https://user-images.githubusercontent.com/114443120/227903431-f2e5688b-4155-45ee-b9a4-cf4f79a012d1.mp4
 
 [`promovideo.mp4`](screenshots/promovideo.mp4)
 
-## Features
+## Features ⭐️
 
 <img src="screenshots/flying-iphone.png" align="right" width="50%" hspace="10" vspace="10">
 
@@ -23,18 +23,18 @@
 *   [x] Players ranking
 *   [x] Gamified XP and Money system
 
-## Techs used
+## Techs used ⚙️
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-## Author
+## Author 🧑🏼‍💻
 - [@lorematteo](https://www.github.com/lorematteo)
 <br/><br/>
 
-## License
+## License ✍🏻
 PrépaStar is licenced under the [MIT](LICENSE.md).
 ```plaintext
 MIT License
